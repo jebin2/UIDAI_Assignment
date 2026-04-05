@@ -1,0 +1,16 @@
+.env
+.env.local
+.env.production
+!.env.example
+
+__pycache__/
+*.pyc
+.venv/
+
+logs/
+*.log
+
+node_modules/
+dist/
+
+test.*
